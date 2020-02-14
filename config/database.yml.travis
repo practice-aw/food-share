@@ -1,0 +1,4 @@
+test:
+  adapter: postgresql
+  database: cancelled_test
+  username: postgres
